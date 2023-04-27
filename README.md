@@ -27,4 +27,4 @@ _Languages, Tools & Frameworks:_
 ---
 
 <img align='left' src="https://github-readme-stats.vercel.app/api/?username=GianmariaFatta&count_private=true&theme=apprentice&showicons=true" />
-<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=GianmariaFatta&langs_count=5&theme=apprentice" />
+
